@@ -51,7 +51,7 @@ Once you have completed the app, please add the code to the `question-2` directo
 
 ## Result
 Created new simple ``` Quasar app ``` by following the instruction of ** Part 2 **
-use https://catfact.ninja/facts? link for endpoint with ``` limit ``` and ``` page ``` to display `` cat data ``, ```per page ``` and ``` per limited length ```
+using https://catfact.ninja/facts? endpoint with ``` limit ``` and ``` page ``` queries to display `` cat data ``depending on queries like ```per page ``` and ``` per limited length ```
 
 ![image](https://user-images.githubusercontent.com/57170337/172924777-ef6b48d7-31cf-40bf-9291-fc17e7e8cbaf.png)
-### Using pagination and select option to filter data with these 2 options from the API.
+### Using pagination and select option to filter data and display them from the existing API.
