@@ -34,6 +34,9 @@ Created simple ``` QUASAR - based ``` `` vue.js `` webapp by following the instr
   - The cards are displaying on a grid depending on resolution
     - Desktop resolutions: 3x3 grid 
     - Mobile and tablet resolutions: Single column
+    - ![image](https://user-images.githubusercontent.com/57170337/173471721-2f8d15f2-e5c4-402e-bf10-29dd453dce1b.png)
+    - ![image](https://user-images.githubusercontent.com/57170337/173471792-4a5834b0-c8aa-4c59-a1f3-1679bc28b187.png)
+
 
 ## Result
 Created new simple ``` Quasar app ``` by following the instruction of ** Part 2 **
