@@ -55,3 +55,5 @@ using https://catfact.ninja/facts? endpoint with ``` limit ``` and ``` page ``` 
 
 ![image](https://user-images.githubusercontent.com/57170337/172924777-ef6b48d7-31cf-40bf-9291-fc17e7e8cbaf.png)
 ### Using pagination and select option to filter data and display them from the existing API.
+![image](https://user-images.githubusercontent.com/57170337/173470526-cf6b81c4-9b76-4488-824e-3c1de97486d0.png)
+
