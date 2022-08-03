@@ -1,4 +1,4 @@
-# Medscape Technical Assessment
+# Technical Assessment
 This coding assignment is designed to give some understanding of my coding proficiency to your team.
 
 ## Part One
